@@ -58,3 +58,5 @@ A one-line version for your report: “Identify the customer characteristics and
 ## Project Files
 
 ## Contact Information
+* Email: aladeloyeesther616@gmail.com
+* LinkedIn: https://linkedin.com/in/estheraderonke
